@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: emotion-detection-babalola
+    name: emotion-detection-salami
     env: python
     branch: main
     buildCommand: pip install -r requirements.txt
